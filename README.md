@@ -17,6 +17,7 @@ The study found significant differences in leaf quantity, texture, and color whe
 
 - `data/`: processed data files
 - `notebook/`: Jupyter notebook with data analysis code
+- - `results/`: Output files from statistical analyses
 - `figures/`: Generated plots and visualizations
 - `requirements.txt`: List of Python dependencies
 
