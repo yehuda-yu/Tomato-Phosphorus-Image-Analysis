@@ -28,4 +28,4 @@ The study found significant differences in leaf quantity, texture, and color whe
 
 ## License
 
-This project is licensed under the [MIT License] (https://opensource.org/license/mit)
+This project is licensed under the [MIT License](https://opensource.org/license/mit)
