@@ -13,8 +13,7 @@ Images of the plants were processed to isolate leaf data, which was then analyze
 
 The study found significant differences in leaf quantity, texture, and color when the phosphorus absorption enhancer was used, indicating its effectiveness in improving plant phosphorus uptake.
 
-[Icpa](Tomato-Phosphorus-Image-Analysis
-/figures/Ipca.png)
+![IPCA Analysis](figures/Ipca.png)
 
 ## Repository Structure
 
